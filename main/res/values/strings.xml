@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iServices News</string>
+
+    <string-array name="news_cat" >
+        <item>Όλα τα νέα</item>
+        <item>Νέα της iServices</item>
+        <item>Νέα του διαδικτύου</item>
+    </string-array>
+</resources>
